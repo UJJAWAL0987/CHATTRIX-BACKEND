@@ -1,6 +1,6 @@
 # 🌐 Real-Time Chat Application (CHATTRIX)
 
-![App Demo](https://chattrix-backend-0fja.onrender.com/)
+
 
 Dive into the world of real-time communication with this powerful **MERN Stack** project! Featuring cutting-edge technologies like **Socket.io**, **JWT**, and **TailwindCSS**, this chat app provides a seamless and secure messaging experience.
 
